@@ -6,4 +6,5 @@ test: # test images (optional)
 
 # Classes (
 names:
-    0: Nike
+  0: small_logo
+  1: tattoo
