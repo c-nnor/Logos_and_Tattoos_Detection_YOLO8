@@ -9,3 +9,5 @@ results = model.predict('example/dir/of/imgs', conf=0.25)
 #run through the results of the model predictions
 for result in results:
     result.show()
+
+    # test
