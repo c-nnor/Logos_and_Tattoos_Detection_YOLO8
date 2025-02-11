@@ -8,8 +8,8 @@ model.train(
     data="dataset.yaml",  # Path to dataset.yaml
     epochs=5,                      # Number of training epochs
     imgsz=640,                      # Image size
-    batch=16,                        # Batch size
-    device="cuda"                    # Use GPU
+    batch=2,                        # Batch size
+    device="cpu"                    # Use GPU
 )
 
 # Save the trained model
