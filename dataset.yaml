@@ -8,4 +8,4 @@ test: # test images (optional)
 names:
   0: big_logo
   1: small_logo
-  2: tattoo
+#  2: tattoo
